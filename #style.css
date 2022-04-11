@@ -1,4 +1,12 @@
-
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7F3YWr39zxc2obBxlnikqm8_qdXOahSNBgw&usqp=CAU');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 40px;
+    padding: 10px;
+}
+  
 .imgsabout{
     border-radius: 100% !important;
 
@@ -18,4 +26,3 @@ text-align: center;
 .testimonialheaing{
     text-align: center;
 }
-     
